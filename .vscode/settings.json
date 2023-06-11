@@ -1,0 +1,20 @@
+// {
+//     "workbench.colorTheme": "Jupyter Theme Dark",
+
+//     //jupyter notebook settings
+//     "notebook.formatOnSave.enabled": true,
+//     "notebook.lineNumbers": "on",
+    
+//     //formatter for python
+//     //currently using black-formatter through extension 
+//     //saving files have been infinitely faster with extension
+//     "python.formatting.provider": "none",
+//     "[python]": {
+//         "editor.defaultFormatter": "ms-python.black-formatter"
+//     },
+    
+//     //args for python autopep8 formatter
+//     "python.formatting.autopep8Args": [
+//         "--aggressive"
+//     ]
+// }
