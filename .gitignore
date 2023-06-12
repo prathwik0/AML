@@ -1,5 +1,5 @@
-
 .DS_Store
-pandas/animal.xlsx
-pandas/animals.txt
-pandas/animals.xlsx
+*.xlsx
+*.txt
+*.csv
+datasets/*
