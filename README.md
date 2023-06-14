@@ -11,3 +11,14 @@
 1. [Dimensionality Reduction - PCA](lab_programs/7%20Principal%20Component%20Analysis.ipynb)
 1. [SVM](lab_programs/8%20SVM%20-%20Loan%20Status%20Prediction.ipynb)
 1. [Hyperparameter Tuning](lab_programs/9%20Hyperparameter%20tuning.ipynb)
+1. [Cross Validation](lab_programs/10%20Cross%20Validation.ipynb)
+
+## Web Scraping
+
+1. [Intro to WebScraping - Extracting elements](web_scraping/1%20Intro%20to%20WebScraping.ipynb)
+1. [Basics of BeautifulSoup](web_scraping/2%20Basics%20of%20BeautifulSoup.ipynb)
+
+## R Programming
+1. []()
+1. []()
+1. []()
