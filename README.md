@@ -15,8 +15,10 @@
 
 ## Web Scraping
 
-1. [Intro to WebScraping - Extracting elements](web_scraping/1%20Intro%20to%20WebScraping.ipynb)
-1. [Basics of BeautifulSoup](web_scraping/2%20Basics%20of%20BeautifulSoup.ipynb)
+1. [Intro to WebScraping - Extracting elements from webpages](web_scraping/1%20Intro%20to%20WebScraping.ipynb)
+1. [Basics of BeautifulSoup - Tag Navigation](web_scraping/2%20Basics%20of%20BeautifulSoup.ipynb)
+1. [...]()
+1. [Scraping using API - weatherapi.com](web_scraping/4%20Scraping%20using%20API.ipynb)
 
 ## R Programming
 1. []()
