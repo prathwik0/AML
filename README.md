@@ -16,11 +16,11 @@
 
 11. ### [Intro to WebScraping - Extracting elements from webpages](web_scraping/1%20Intro%20to%20WebScraping.ipynb)
 12. ### [Basics of BeautifulSoup - Tag Navigation](web_scraping/2%20Basics%20of%20BeautifulSoup.ipynb)
-13. ### [Scraping News Data](web_scraping/3%20Scraping%20News%20Data.ipynb)
+13. ### [Scraping News Data](web_scraping/3%20Scraping%20Google%20News%20Feed.ipynb)
 14. ### [Scraping using API - weatherapi.com](web_scraping/4%20Scraping%20using%20API.ipynb)
 
 ## Scrapy
 
 15. ### [Program 1](scrapy/project1/project1/spiders/program1.py)
-16. ### [Program 2](scrapy/project1/project1/spiders/program2.py)
-17. ### [Program 3](scrapy/project1/project1/spiders/program3.py)
+16. ### [WebCrawling with rules - CrawlSpider](scrapy/project1/project1/spiders/program2.py)
+
