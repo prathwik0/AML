@@ -5,6 +5,7 @@
 1. ### [Handling Missing Values](lab_programs/1%20Handling%20missing%20values.ipynb)
 2. ### [Categorical and Textual Data Encoding](lab_programs/2%20Categorical%20and%20Text%20data%20encoding.ipynb)
 3. ### [TfidVectorizer Textual Data Preprocessing](lab_programs/5%20TfidVectorizer%20Textual%20Data%20Preprocessing.ipynb)
+4. ### [Ensemble method - Random Forest Classifier](lab_programs/3%20Random%20Forest.ipynb)
 5. ### [Ensemble method - AdaBoost Classifier](lab_programs/4%20Adaboost.ipynb)
 6. ### [Data Pipelines](lab_programs/6%20Pipelines.ipynb)
 7. ### [Dimensionality Reduction - PCA](lab_programs/7%20Principal%20Component%20Analysis.ipynb)
@@ -21,6 +22,10 @@
 
 ## Scrapy
 
-15. ### [Program 1](scrapy/project1/project1/spiders/program1.py)
+15. ### [Extracting and Storing Images and Paragraphs](scrapy/project1/project1/spiders/program1.py)
 16. ### [WebCrawling with rules - CrawlSpider](scrapy/project1/project1/spiders/program2.py)
 
+## R Programming
+
+1. ### [Decision Tree](R/Decision%20Tree.r)
+2. ### [Random Forest](R/Random%20Forest.r)
