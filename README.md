@@ -2,7 +2,7 @@
 
 ## Numpy
 
-1. [Basics of numpy](numpy/1%20basics.ipynb)
+1. [Basics of numpy](numpy/1%20Basics.ipynb)
 1. [Initializing a numpy array](numpy/2%20Initialize%20numpy%20array.ipynb)
 1. [Accessing elements and slicing](numpy/3%20Access%20elements%20+%20slicing.ipynb)
 1. [Array Manipulation](numpy/4%20Array%20Manipulation.ipynb)
