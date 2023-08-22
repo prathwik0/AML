@@ -57,5 +57,7 @@
 
 ## More
 
-1. [PIL - Python Imaging Library](others/PIL.ipynb)
-1. [Tesseract module](others/tesseract.ipynb)
+1. [PIL - Python Imaging Library](Others/PIL.ipynb)
+2. [Numpy Array Image Representation](Others/2%20Numpy%20Array%20Image%20Representation.ipynb)
+1. [Tesseract module](Others/tesseract.ipynb)
+
