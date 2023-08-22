@@ -43,6 +43,7 @@
 2. [Basics of BeautifulSoup - Tag Navigation](WebScraping/2%20Basics%20of%20BeautifulSoup.ipynb)
 3. [Scraping Google News Data](WebScraping/3%20Scraping%20Google%20News%20Feed.ipynb)
 4. [Scraping using API - weatherapi.com](WebScraping/4%20Scraping%20using%20API.ipynb)
+5. [Scraping using RegEx](WebScraping/Scraping%20using%20RegEx.ipynb)
 
 ## Web Scraping using Scrapy
 
